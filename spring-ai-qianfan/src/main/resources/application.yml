@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: AI_QIANFAN
+server:
+  port: 8080
+ai:
+  qianfan:
+    api-key: rEEiQVRCgtlQuX3CCYIgBUgz
+    secret-key: dMM0JbEAbWjJv9d9044je4ZIf3l5DfZH
